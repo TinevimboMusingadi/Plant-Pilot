@@ -1,0 +1,5 @@
+{
+  "name": "Plant Pilot",
+  "description": "A smart agricultural advisory application for Zimbabwean farmers providing weather forecasts, crop advice, and pest detection.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
